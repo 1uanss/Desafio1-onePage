@@ -1,0 +1,32 @@
+.container-1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #D7D4FF;
+    gap: 340px;
+    padding: 70px 0 150px 0;
+}
+
+.ct1-text-button {
+    width: 390px;
+    text-align: left;
+}
+
+.ct1-txt-title {
+    font-family: 'Merriweather';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 47px;
+    margin-bottom: 18px;
+}
+
+.ct1-txt {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 32px;
+    align-items: center;
+    margin-bottom: 18px;
+}
