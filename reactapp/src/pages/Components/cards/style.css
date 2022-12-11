@@ -1,0 +1,27 @@
+.card {
+    width: 35rem;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
+    background: #FFFFFF;
+}
+
+.car-color {
+    height: 200px;
+}
+
+.card-title {
+    font-family: 'Merriweather';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 30px;
+    margin: 10px 15px 10px 15px;
+}
+
+.card-text {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+    margin: 10px 15px 10px 15px;
+}
