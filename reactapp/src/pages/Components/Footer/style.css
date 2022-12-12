@@ -1,0 +1,8 @@
+.form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #D7D4FF;
+    /* gap: 340px;
+    padding: 70px 0 150px 0; */
+}
