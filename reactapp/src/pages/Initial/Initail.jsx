@@ -1,7 +1,6 @@
 import { useState } from 'react';
 import img from './../../assets/img/img.svg';
 import Button from '../Components/Button'
-import Footer from '../Components/Footer/Footer';
 import'./style.css';
 
 function Initial() {

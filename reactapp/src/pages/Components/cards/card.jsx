@@ -3,7 +3,7 @@ import './style.css';
 
 function Card(props){
     const {backgroundColor, color} = props
-    console.log(props)
+    // console.log(props)
     const myStyleCard = {
         backgroundColor,
         color,
